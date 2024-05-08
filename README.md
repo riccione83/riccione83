@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/riccione83" target="blank"><img src="https://img.shields.io/twitter/follow/riccione83?logo=twitter&style=for-the-badge" alt="riccione83" /></a> </p>
 
-- 🔭 I’m currently working on [React and Redux](https://www.machinemax.com)
+- 🔭 I’m currently working on React and Redux
 
 - 💬 Ask me about **react, nodejs, ios**
 
